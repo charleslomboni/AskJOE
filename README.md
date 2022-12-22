@@ -7,7 +7,7 @@ This one is much more simple and instead work in IDA Pro we can use it to get so
 
 ![AskJOE Running](/imgs/AskJOE-running.png "AskJOE Running")
 
-## Dependeces
+## Dependencies
 - [Python3](https://www.python.org/downloads/)
 - [Ghidrathon](https://github.com/mandiant/Ghidrathon)
 
