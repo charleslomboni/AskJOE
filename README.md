@@ -1,7 +1,7 @@
 # AskJOE
 
 ## What is AskJOE?
-This is a Ghidra plugin that calls [OPENAI](https://openai.com/) to give meaning to decompiled Ghidra functions
+This is a Ghidra plugin that calls [OPENAI](https://openai.com/) to give meaning to decompiled functions
 
 ![AskJOE Running](/imgs/AskJOE-running.png "AskJOE Running")
 
